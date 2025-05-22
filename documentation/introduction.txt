@@ -1,0 +1,18 @@
+This is the introduction document for the provided task.
+
+"Engineer a federated data fusion framework to harmonize EHR 
+and real-time biosensor streams into a unified digital twin repository."
+
+To implement this, we are going to simulate the actual sensor readings from wearables,
+store the recorded vitals in the temporal format along with the EHR details of the patient.
+
+The stored vitals and the real-time recorded wearable data is leveraged to assess the health
+conditions like heart-disease, stress alerts and hypertension alerts of the patients.
+
+The system acts as a federated unit of Machine Learning Models, Sensor data and the database.
+
+Technology stack used is 
+Firebase -> for harmonizing EHR details with real-time sensor data 
+Decision Tree and Random Forest Models -> To carry out risk assessment in real-time.
+Streamlit Interface -> for making the federated system usable and managable for new and existing 
+patients.

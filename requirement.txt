@@ -1,0 +1,12 @@
+streamlit
+firebase-admin
+google-cloud-firestore
+numpy
+pandas
+requests
+scikit-learn
+matplotlib
+plotly
+python-dotenv
+PyJWT
+protobuf

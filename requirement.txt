@@ -1,5 +1,5 @@
-streamlit
 firebase-admin
+streamlit
 google-cloud-firestore
 numpy
 pandas
